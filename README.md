@@ -1,2 +1,4 @@
 foo
 ===
+
+commit #2
